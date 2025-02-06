@@ -1,7 +1,7 @@
-print("   /|")
-print("  / |")
-print(" /  |")
-print("/___|")
+#print("   /|")
+#print("  / |")
+#print(" /  |")
+#print("/___|")
 # character_name="Vaish "
 # age="24"
 # print("Her name is "+ character_name + "and she is " + age + " years old")
